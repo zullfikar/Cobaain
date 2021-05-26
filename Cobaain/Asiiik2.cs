@@ -10,16 +10,11 @@ using System.Windows.Forms;
 
 namespace Cobaain
 {
-    public partial class Form1 : Form
+    public partial class Asiiik2 : Form
     {
-        public Form1()
+        public Asiiik2()
         {
             InitializeComponent();
         }
-
-        private void Form1_Load(object sender, EventArgs e)
-        {
-
-        }
-    }//halo
+    }
 }
